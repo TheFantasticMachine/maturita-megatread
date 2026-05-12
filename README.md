@@ -47,3 +47,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 
 ---
 ## Operační systémy
+
+---
+
+==[Pokud chcete, tady je .gitignore](https://github.com/TheFantasticMachine/maturita-megatread/blob/main/.idea/.gitignore)==
