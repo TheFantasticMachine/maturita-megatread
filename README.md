@@ -41,6 +41,25 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 19. [R.U.R.](čj/Knihy/19%20(Karel%20Čapek%20–%20R.%20U.%20R.).md)
 20. [Bílá nemoc](čj/Knihy/20%20(Karel%20Čapek%20–%20Bílá%20nemoc).md)
 
+
+#### Seznam Autorů
+1. [Agatha Christie](čj/Autoři/Agatha%20Christie.md)
+2. [Antoine de Saint-Exupéry](čj/Autoři/Antoine%20de%20Saint-Exupéry.md)
+3. [Christiane Felscherinow](čj/Autoři/Christiane%20Felscherinow.md)
+4. [Edgar Allan Poe](čj/Autoři/Edgar%20Allan%20Poe.md)
+5. [Franz Kafka](čj/Autoři/Franz%20Kafka.md)
+6. [George Orwell](čj/Autoři/George%20Orwell.md)
+7. [Karel Jaromír Erben](čj/Autoři/Karel%20Jaromír%20Erben.md)
+8. [Karel Čapek](čj/Autoři/Karel%20Čapek.md)
+9. [Ken Kesey](čj/Autoři/Ken%20Kesey.md)
+10. [Ladislav Fuks](čj/Autoři/Ladislav%20Fuks.md)
+11. [Nikolaj Vasiljevič Gogol](čj/Autoři/Nikolaj%20Vasiljevič%20Gogol.md)
+12. [Oscar Wilde](čj/Autoři/Oscar%20Wilde.md)
+13. [Viktor Dyk](čj/Autoři/Viktor%20Dyk.md)
+14. [William Shakespeare](čj/Autoři/William%20Shakespeare.md)
+15. [Émile Zola](čj/Autoři/Émile%20Zola.md)
+
+
 ---
 ## Programování
 

@@ -1,5 +1,6 @@
 ## Romeo a Julie
 
+---
 **Autor:** [William Shakespeare](../Autoři/William%20Shakespeare.md)
 
 **literární...**
