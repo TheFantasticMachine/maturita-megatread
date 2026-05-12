@@ -1,6 +1,6 @@
 **Autor:** [[William Shakespeare]]
 **žánr:**
-**časové období:** [světová literatura do 18 století](lit%20do18%20stol.md)
+**časové období:** [světová literatura do 18 století](../lit%20do18%20stol.md)
 
 << [[1 (William Shakespeare – Romeo a Julie)]] | [[3 (Edgar Allan Poe – Jáma a kyvadlo)]] >>
 

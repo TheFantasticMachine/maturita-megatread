@@ -1,6 +1,6 @@
 **Autor:** [[William Shakespeare]]
 **žánr:**
-**časové období:** [česká a světová literatura do 18 století](lit%20do18%20stol.md)
+**časové období:** [česká a světová literatura do 18 století](../lit%20do18%20stol.md)
 
 [[2 (William Shakespeare - Hamlet)]] >>
 

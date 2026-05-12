@@ -1,6 +1,6 @@
 **Autor:** [[Karel Jaromír Erben]]
 **žánr:**
-**časové období:** [světová literatura 19 století](lit%2019%20stol.md)
+**časové období:** [světová literatura 19 století](../lit%2019%20stol.md)
 
 <hr>
 #### Seznam postav

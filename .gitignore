@@ -1,0 +1,8 @@
+# ignored file extensions
+.xml
+.iml
+
+# ignored file names
+
+# ignored folders
+.idea
