@@ -1,11 +1,18 @@
-**Autor:** [[William Shakespeare]]
-**žánr:**
+## Romeo a Julie
+
+**Autor:** [William Shakespeare](../Autoři/William%20Shakespeare.md)
+
+**literární...**
+- **žárn:**
+- **druh:**
+- **forma:**
+
 **časové období:** [česká a světová literatura do 18 století](../lit%20do18%20stol.md)
 
-[[2 (William Shakespeare - Hamlet)]] >>
+---
 
-<hr>
 #### Seznam postav
+
 - **Romeo** - syn Montekův
 - **Julie** - dcera Kapuletova
 - **Montek** - hlava rodiny Monteků
@@ -21,6 +28,7 @@
 #### Kontext
 
 
+---
 
-<hr>
 ## Zdroje
+
