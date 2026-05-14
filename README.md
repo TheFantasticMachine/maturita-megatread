@@ -63,6 +63,32 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 ---
 ## Programování
 
+#### Seznam otázek  
+1. Vývojové diagramy, aritmetické, relační a logické operátory[výpisky](Pm/1.md)
+2. Datové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné[výpisky](Pm/2.md)
+3. Podmíněné větvení programu, pole, cykly[výpisky](Pm/3.md)
+4. Funkce v programovacích jazycích[výpisky](Pm/4.md)
+5. C++ - charakteristika, syntaxe, použití, funkce main()[výpisky](Pm/5.md)
+6. Procedurální a objektově orientované programování (OOP)[výpisky](Pm/6.md)
+7. OOP - třídy, instance tříd, dědičnost a polymorfismus [výpisky](Pm/7.md)
+8. OOP - objekty, jejich tvorba, vlastnosti, metody [výpisky](Pm/8.md)
+9. Java - charakteristika, syntaxe, použití, vlastnosti, VM [výpisky](Pm/9.md)
+10. HTML - charakteristika, struktura dokumentu, syntaxe, validita, druhy a kategorie značek [výpisky](Pm/10.md)
+11. CSS - charakteristika, syntaxe, jednotky, identifikátory [výpisky](Pm/11.md)
+12. JavaScript - charakteristika, syntaxe, způsoby vložení skriptu, DOM, princip fungování [výpisky](Pm/12.md)
+13. PHP - charakteristika, syntaxe, deklarace, způsoby vložení skriptu, princip fungování [výpisky](Pm/13.md)
+14. PHP - proměnné $GLOBALS, $_SESSION, $_COOKIE [výpisky](Pm/14.md)
+15. Databáze - charakteristika, druhy databází, jejich princip a použití, SŘBD, DBS [výpisky](Pm/15.md)
+16. Relační databáze - relace, diagramy, druhy klíčů, ACID transakce [výpisky](Pm/16.md)
+17. Konceptuální, logický a fyzický model databáze - jejich popis a účel [výpisky](Pm/17.md)
+18. SQL - charakteristika, syntaxe, základní dotazy CRUD, příklady [výpisky](Pm/18.md)
+19. SQL - skupina příkazů JOIN (LEFT, RIGHT, atd.) a VIEW, použití a příklady [výpisky](Pm/19.md)
+20. SQL - agregační klauzule, podmínky, řazení výstupu, příklady [výpisky](Pm/20.md)
+21. Programování pro OS Android – charakteristika, Activity, Intent, práce s daty [výpisky](Pm/21.md)
+22. Zásady pro tvorbu webových aplikací, přístupnost webových aplikací, SEO [výpisky](Pm/22.md)
+23. Zabezpečení webových aplikací, způsoby a provedení [výpisky](Pm/23.md)
+24. Redakční systémy - charakteristika, použití, výhody a nevýhody, postup implementace [výpisky](Pm/24.md)
+25. Vývojová prostředí (IDE), charakteristika, použití, výhody, příklady [výpisky](Pm/25.md)
 
 ---
 ## Operační systémy

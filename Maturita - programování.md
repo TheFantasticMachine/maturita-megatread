@@ -1,25 +1,25 @@
- 1. Otázka [[Pm/1]]
- 2. Otázka [[Pm/2]]
- 3. Otázka [[Pm/3]]
- 4. Otázka [[Pm/4]]
- 5. Otázka [[Pm/5]]
- 6. Otázka [[Pm/6]]
- 7. Otázka [[Pm/7]]
- 8. Otázka [[Pm/8]]
- 9. Otázka [[Pm/9]]
- 10. Otázka [[Pm/10]]
- 11. Otázka [[Pm/11]]
- 12. Otázka [[Pm/12]]
- 13. Otázka [[Pm/13]]
- 14. Otázka [[Pm/14]]
- 15. Otázka [[Pm/15]]
- 16. Otázka [[Pm/16]]
- 17. Otázka [[Pm/17]]
- 18. Otázka [[Pm/18]]
- 19. Otázka [[Pm/19]]
- 20. Otázka [[Pm/20]]
- 21. Otázka [[Pm/21]]
- 22. Otázka [[Pm/22]]
- 23. Otázka [[Pm/23]]
- 24. Otázka [[Pm/24]]
- 25. Otázka [[Pm/25]]
+ 1. Vývojové diagramy, aritmetické, relační a logické operátory[výpisky](Pm/1.md)
+ 2. Datové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné[výpisky](Pm/2.md)
+ 3. Podmíněné větvení programu, pole, cykly[výpisky](Pm/3.md)
+ 4. Funkce v programovacích jazycích[výpisky](Pm/4.md)
+ 5. C++ - charakteristika, syntaxe, použití, funkce main()[výpisky](Pm/5.md)
+ 6. Procedurální a objektově orientované programování (OOP)[výpisky](Pm/6.md)
+ 7. OOP - třídy, instance tříd, dědičnost a polymorfismus [výpisky](Pm/7.md)
+ 8. OOP - objekty, jejich tvorba, vlastnosti, metody [výpisky](Pm/8.md)
+ 9. Java - charakteristika, syntaxe, použití, vlastnosti, VM [výpisky](Pm/9.md)
+ 10. HTML - charakteristika, struktura dokumentu, syntaxe, validita, druhy a kategorie značek [výpisky](Pm/10.md)
+ 11. CSS - charakteristika, syntaxe, jednotky, identifikátory [výpisky](Pm/11.md)
+ 12. JavaScript - charakteristika, syntaxe, způsoby vložení skriptu, DOM, princip fungování [výpisky](Pm/12.md)
+ 13. PHP - charakteristika, syntaxe, deklarace, způsoby vložení skriptu, princip fungování [výpisky](Pm/13.md)
+ 14. PHP - proměnné $GLOBALS, $_SESSION, $_COOKIE [výpisky](Pm/14.md)
+ 15. Databáze - charakteristika, druhy databází, jejich princip a použití, SŘBD, DBS [výpisky](Pm/15.md)
+ 16. Relační databáze - relace, diagramy, druhy klíčů, ACID transakce [výpisky](Pm/16.md)
+ 17. Konceptuální, logický a fyzický model databáze - jejich popis a účel [výpisky](Pm/17.md)
+ 18. SQL - charakteristika, syntaxe, základní dotazy CRUD, příklady [výpisky](Pm/18.md)
+ 19. SQL - skupina příkazů JOIN (LEFT, RIGHT, atd.) a VIEW, použití a příklady [výpisky](Pm/19.md)
+ 20. SQL - agregační klauzule, podmínky, řazení výstupu, příklady [výpisky](Pm/20.md)
+ 21. Programování pro OS Android – charakteristika, Activity, Intent, práce s daty [výpisky](Pm/21.md)
+ 22. Zásady pro tvorbu webových aplikací, přístupnost webových aplikací, SEO [výpisky](Pm/22.md)
+ 23. Zabezpečení webových aplikací, způsoby a provedení [výpisky](Pm/23.md)
+ 24. Redakční systémy - charakteristika, použití, výhody a nevýhody, postup implementace [výpisky](Pm/24.md)
+ 25. Vývojová prostředí (IDE), charakteristika, použití, výhody, příklady [výpisky](Pm/25.md)
