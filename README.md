@@ -78,7 +78,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 9. **Java - charakteristika, syntaxe, použití, vlastnosti, VM [výpisky](Pm/9.md)**
 10. **~~HTML - charakteristika, struktura dokumentu, syntaxe, validita, druhy a kategorie značek~~ [výpisky](Pm/10.md)**
 11. **~~CSS - charakteristika, syntaxe, jednotky, identifikátory~~ [výpisky](Pm/11.md)**
-12. **JavaScript - charakteristika, syntaxe, způsoby vložení skriptu, DOM, princip fungování [výpisky](Pm/12.md)**
+12. **JavaScript - charakteristika, ~~syntaxe, způsoby vložení skriptu,~~ DOM, princip fungování [výpisky](Pm/12.md)**
 13. **PHP - charakteristika, syntaxe, deklarace, způsoby vložení skriptu, princip fungování [výpisky](Pm/13.md)**
 14. **PHP - proměnné \$GLOBALS, \$_SESSION, \$_COOKIE [výpisky](Pm/14.md)**
 15. **Databáze - charakteristika, druhy databází, jejich princip a použití, SŘBD, DBS [výpisky](Pm/15.md)**

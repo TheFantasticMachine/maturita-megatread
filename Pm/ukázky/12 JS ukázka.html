@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Palette Tester</title>
+    <style>
+        /*
+         * 1. DEFINE YOUR COLOR PALETTES
+         * We use CSS Variables so we only have to change the colors in one place!
+         */
+
+        /* Default (Light/White Theme) */
+        :root {
+            --bg-color: #f4f5f7;
+            --text-color: #2d3436;
+            --card-bg: #ffffff;
+            --button-bg: #dfe6e9;
+            --button-hover: #b2bec3;
+            --accent-color: #0984e3;
+        }
+
+        /* Dark Theme */
+        body.theme-dark {
+            --bg-color: #121212;
+            --text-color: #e0e0e0;
+            --card-bg: #1e1e1e;
+            --button-bg: #333333;
+            --button-hover: #4f4f4f;
+            --accent-color: #bb86fc;
+        }
+
+        /* Green Theme */
+        body.theme-green {
+            --bg-color: #e8f5e9;
+            --text-color: #1b5e20;
+            --card-bg: #c8e6c9;
+            --button-bg: #a5d6a7;
+            --button-hover: #81c784;
+            --accent-color: #2e7d32;
+        }
+
+        /* Purple Theme */
+        body.theme-purple {
+            --bg-color: #f3e5f5;
+            --text-color: #4a148c;
+            --card-bg: #e1bee7;
+            --button-bg: #ce93d8;
+            --button-hover: #ba68c8;
+            --accent-color: #7b1fa2;
+        }
+
+        /*
+         * 2. APPLY THE SMOOTH ANIMATION
+         * The 'transition' property is what makes the color change easy on the eyes.
+         */
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            transition: background-color 0.6s ease, color 0.6s ease;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        /* 3. LAYOUT & STYLING */
+        header {
+            margin-top: 40px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        button {
+            background-color: var(--button-bg);
+            color: var(--text-color);
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            /* Buttons also get a smooth transition */
+            transition: background-color 0.6s ease, color 0.6s ease, transform 0.2s;
+        }
+
+        button:hover {
+            background-color: var(--button-hover);
+            transform: scale(1.05);
+        }
+
+        main {
+            margin-top: 50px;
+            max-width: 600px;
+            width: 90%;
+            text-align: center;
+        }
+
+        .sample-card {
+            background-color: var(--card-bg);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.6s ease, box-shadow 0.6s ease;
+            margin-top: 20px;
+        }
+
+        .accent-text {
+            color: var(--accent-color);
+            transition: color 0.6s ease;
+        }
+    </style>
+</head>
+<!-- The body starts with the default light theme -->
+<body class="theme-light">
+
+<!-- The 4 Buttons at the top -->
+<header>
+    <button onclick="changeTheme('theme-light')">White Theme</button>
+    <button onclick="changeTheme('theme-dark')">Dark Theme</button>
+    <button onclick="changeTheme('theme-green')">Green Theme</button>
+    <button onclick="changeTheme('theme-purple')">Purple Theme</button>
+</header>
+
+<!-- Sample content to see how the colors look -->
+<main>
+    <h1>Welcome to your <span class="accent-text">Theme Tester</span></h1>
+    <p>Click the buttons above to watch the colors change smoothly.</p>
+
+    <div class="sample-card">
+        <h2>Sample Card Element</h2>
+        <p>This box is here so you can test how different background and foreground colors contrast with each other. The smooth fading effect makes transitioning between high-contrast themes much easier on the eyes!</p>
+    </div>
+</main>
+
+<!-- JavaScript to handle the button clicks -->
+<script>
+    function changeTheme(themeName) {
+        // This replaces whatever theme class is on the body with the new one
+        document.body.className = themeName;
+    }
+</script>
+
+</body>
+</html>
