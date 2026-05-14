@@ -9,14 +9,16 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 :+1: = hotovo <br>
 *...a bez emoji tam prostě ještě nic nemá* <br>
 
+***Drahý čtenáři ber v potaz že mi po cca 7 hodinách učení v kuse asi 5 dní v kuse začalo jebat a možná to je lehce vidět na tom co dávám do poznámek nebo příkladů***
+
 ---
 ## Čeština
 
 - :wrench: **Vizuální** dějová linka s autory, knihami, definicemi, historickým kontextem [odkaz na draw io](https://drive.google.com/file/d/1-X29IL25j-nAbVPax6GZcUjPq-X6SwzM/view?usp=sharing) *...snad funfuje*
-- [Výpisky k literárním žánrům, druhům a formám](čj/Žánry%20druhy%20formy)
-- [Výpisky k autorům](čj/Autoři)
-- [Výpisky ke knihám](čj/Knihy)
-- [Výpisky k pojmům](čj/Pojmy)
+- :wrench: [Výpisky k literárním žánrům, druhům a formám](čj/Žánry%20druhy%20formy)
+- :wrench: [Výpisky k autorům](čj/Autoři)
+- :wrench: [Výpisky ke knihám](čj/Knihy)
+- :wrench: [Výpisky k pojmům](čj/Pojmy)
 
 
 #### Literatura v časových obdobých
@@ -27,7 +29,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 - česká literatura 20. a 21. století ([výpisky](čj/česká%20lit%2020%20a%2021%20stol.md))
 
 #### Seznam knih
-1. [Romeo a Julie](čj/Knihy/1%20(William%20Shakespeare%20–%20Romeo%20a%20Julie).md)
+1. :wrench: [Romeo a Julie](čj/Knihy/1%20(William%20Shakespeare%20–%20Romeo%20a%20Julie).md)
 2. [Hamlet](čj/Knihy/2%20(William%20Shakespeare%20-%20Hamlet).md)
 3. [Jáma a kyvadlo](čj/Knihy/3%20(Edgar%20Allan%20Poe%20–%20Jáma%20a%20kyvadlo).md)
 4. [Havran](čj/Knihy/4%20(Edgar%20Allan%20Poe%20-%20Havran%20a%20jiné%20básně).md)
@@ -71,14 +73,14 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 ## Programování
 
 #### Seznam otázek
-1. **Vývojové diagramy, aritmetické, relační a logické operátory [výpisky](Pm/1.md)**
+1. :wrench **Vývojové diagramy, aritmetické, relační a logické operátory [výpisky](Pm/1.md)**
 2. **Datové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné [výpisky](Pm/2.md)**
 3. **Podmíněné větvení programu, pole, cykly [výpisky](Pm/3.md)**
 4. **Funkce v programovacích jazycích [výpisky](Pm/4.md)**
 5. **C++ - charakteristika, syntaxe, použití, funkce main() [výpisky](Pm/5.md)**
 6. :wrench: **Procedurální a objektově orientované programování (OOP) [výpisky](Pm/6.md)**
-7. **OOP - třídy, instance tříd, dědičnost a polymorfismus [výpisky](Pm/7.md)**
-8. **OOP - objekty, jejich tvorba, vlastnosti, metody [výpisky](Pm/8.md)**
+7. :wrench: **OOP - třídy, instance tříd, dědičnost a polymorfismus [výpisky](Pm/7.md)**
+8. :wrench: **OOP - objekty, jejich tvorba, vlastnosti, metody [výpisky](Pm/8.md)**
 9. **Java - charakteristika, syntaxe, použití, vlastnosti, VM [výpisky](Pm/9.md)**
 10. :+1: **HTML - charakteristika, struktura dokumentu, syntaxe, validita, druhy a kategorie značek [výpisky](Pm/10.md)**
 11. :+1: **CSS - charakteristika, syntaxe, jednotky, identifikátory~~ [výpisky](Pm/11.md)**
@@ -89,7 +91,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 16. **Relační databáze - relace, diagramy, druhy klíčů, ACID transakce [výpisky](Pm/16.md)**
 17. **Konceptuální, logický a fyzický model databáze - jejich popis a účel [výpisky](Pm/17.md)**
 18. **SQL - charakteristika, syntaxe, základní dotazy CRUD, příklady [výpisky](Pm/18.md)**
-19. **SQL - skupina příkazů JOIN (LEFT, RIGHT, atd.) a VIEW, použití a příklady [výpisky](Pm/19.md)**
+19. :wrench: **SQL - skupina příkazů JOIN (LEFT, RIGHT, atd.) a VIEW, použití a příklady [výpisky](Pm/19.md)**
 20. **SQL - agregační klauzule, podmínky, řazení výstupu, příklady [výpisky](Pm/20.md)**
 21. **Programování pro OS Android – charakteristika, Activity, Intent, práce s daty [výpisky](Pm/21.md)**
 22. **Zásady pro tvorbu webových aplikací, přístupnost webových aplikací, SEO [výpisky](Pm/22.md)**
