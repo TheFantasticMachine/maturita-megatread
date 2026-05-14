@@ -5,7 +5,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 **pokud máte nějaké problémy přidejte je do issues, osobně je tam trakuju a snažím se řešit jak to jen jde**
 
 ### Jak číst README
-:wrench: = pracuji na tom / rozpracováno <br>
+:wrench: = pracuji na tom / rozpracováno (*to neznamená že to je špatný zdroj, jen to znamená že nejsem spokojený s tím v jakém stavu jsou) <br>
 :+1: = hotovo <br>
 *...a bez emoji tam prostě ještě nic nemá* <br>
 
@@ -73,7 +73,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 ## Programování
 
 #### Seznam otázek
-1. :wrench **Vývojové diagramy, aritmetické, relační a logické operátory [výpisky](Pm/1.md)**
+1. :wrench: **Vývojové diagramy, aritmetické, relační a logické operátory [výpisky](Pm/1.md)**
 2. **Datové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné [výpisky](Pm/2.md)**
 3. **Podmíněné větvení programu, pole, cykly [výpisky](Pm/3.md)**
 4. **Funkce v programovacích jazycích [výpisky](Pm/4.md)**
@@ -84,7 +84,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 9. **Java - charakteristika, syntaxe, použití, vlastnosti, VM [výpisky](Pm/9.md)**
 10. :+1: **HTML - charakteristika, struktura dokumentu, syntaxe, validita, druhy a kategorie značek [výpisky](Pm/10.md)**
 11. :+1: **CSS - charakteristika, syntaxe, jednotky, identifikátory~~ [výpisky](Pm/11.md)**
-12. **JavaScript - charakteristika, ~~syntaxe, způsoby vložení skriptu, DOM, princip fungování [výpisky](Pm/12.md)**
+12. :wrench: **JavaScript - charakteristika, ~~syntaxe, způsoby vložení skriptu, DOM, princip fungování [výpisky](Pm/12.md)**
 13. **PHP - charakteristika, syntaxe, deklarace, způsoby vložení skriptu, princip fungování [výpisky](Pm/13.md)**
 14. :wrench: **PHP - proměnné \$GLOBALS, \$_SESSION, \$_COOKIE [výpisky](Pm/14.md)**
 15. **Databáze - charakteristika, druhy databází, jejich princip a použití, SŘBD, DBS [výpisky](Pm/15.md)**
