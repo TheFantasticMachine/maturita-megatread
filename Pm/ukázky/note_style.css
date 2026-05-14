@@ -1,0 +1,16 @@
+.plus {
+    color: greenyellow;
+    font-weight: 700;
+    display: block;
+}
+.plus:before {
+    content: "+ ";
+}
+.con {
+    color: red;
+    font-weight: 700;
+    display: block;
+}
+.con:before {
+    content: "- ";
+}
