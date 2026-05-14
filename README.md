@@ -2,6 +2,8 @@
 
 Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 
+**pokud máte nějaké problémy přidejte je do issues, osobně je tam trakuju a snažím se řešit jak to jen jde**
+
 ---
 ## Čeština
 
@@ -64,6 +66,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 ## Programování
 
 #### Seznam otázek  
+*(šktlé jsou již sepsané stačí kliknout na odkaz)*
 1. **Vývojové diagramy, aritmetické, relační a logické operátory[výpisky](Pm/1.md)**
 2. **Datové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné[výpisky](Pm/2.md)**
 3. **Podmíněné větvení programu, pole, cykly[výpisky](Pm/3.md)**
