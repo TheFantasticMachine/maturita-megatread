@@ -67,12 +67,12 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 
 #### Seznam otázek  
 *(šktlé jsou již sepsané stačí kliknout na odkaz)*
-1. **Vývojové diagramy, aritmetické, relační a logické operátory[výpisky](Pm/1.md)**
-2. **Datové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné[výpisky](Pm/2.md)**
-3. **Podmíněné větvení programu, pole, cykly[výpisky](Pm/3.md)**
-4. **Funkce v programovacích jazycích[výpisky](Pm/4.md)**
-5. **C++ - charakteristika, syntaxe, použití, funkce main()[výpisky](Pm/5.md)**
-6. **Procedurální a objektově orientované programování (OOP)[výpisky](Pm/6.md)**
+1. **Vývojové diagramy, aritmetické, relační a logické operátory [výpisky](Pm/1.md)**
+2. **Datové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné [výpisky](Pm/2.md)**
+3. **Podmíněné větvení programu, pole, cykly [výpisky](Pm/3.md)**
+4. **Funkce v programovacích jazycích [výpisky](Pm/4.md)**
+5. **C++ - charakteristika, syntaxe, použití, funkce main() [výpisky](Pm/5.md)**
+6. **Procedurální a ~~objektově orientované programování (OOP)~~ *(chybí procedurální)* [výpisky](Pm/6.md)**
 7. **OOP - třídy, instance tříd, dědičnost a polymorfismus [výpisky](Pm/7.md)**
 8. **OOP - objekty, jejich tvorba, vlastnosti, metody [výpisky](Pm/8.md)**
 9. **Java - charakteristika, syntaxe, použití, vlastnosti, VM [výpisky](Pm/9.md)**
