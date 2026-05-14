@@ -90,9 +90,9 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 15. **Databáze - charakteristika, druhy databází, jejich princip a použití, SŘBD, DBS [výpisky](Pm/15.md)**
 16. **Relační databáze - relace, diagramy, druhy klíčů, ACID transakce [výpisky](Pm/16.md)**
 17. **Konceptuální, logický a fyzický model databáze - jejich popis a účel [výpisky](Pm/17.md)**
-18. **SQL - charakteristika, syntaxe, základní dotazy CRUD, příklady [výpisky](Pm/18.md)**
+18. :wrench: **SQL - charakteristika, syntaxe, základní dotazy CRUD, příklady [výpisky](Pm/18.md)**
 19. :wrench: **SQL - skupina příkazů JOIN (LEFT, RIGHT, atd.) a VIEW, použití a příklady [výpisky](Pm/19.md)**
-20. **SQL - agregační klauzule, podmínky, řazení výstupu, příklady [výpisky](Pm/20.md)**
+20. :wrench: **SQL - agregační klauzule, podmínky, řazení výstupu, příklady [výpisky](Pm/20.md)**
 21. **Programování pro OS Android – charakteristika, Activity, Intent, práce s daty [výpisky](Pm/21.md)**
 22. **Zásady pro tvorbu webových aplikací, přístupnost webových aplikací, SEO [výpisky](Pm/22.md)**
 23. **Zabezpečení webových aplikací, způsoby a provedení [výpisky](Pm/23.md)**
