@@ -5,7 +5,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 **pokud máte nějaké problémy přidejte je do issues, osobně je tam trakuju a snažím se řešit jak to jen jde**
 
 ### Jak číst README
-:wrench: = pracuji na tom / rozpracováno (*to neznamená že to je špatný zdroj, jen to znamená že nejsem spokojený s tím v jakém stavu jsou) <br>
+:wrench: = pracuji na tom / rozpracováno (*to neznamená že to je špatný zdroj, jen to znamená že nejsem spokojený s tím v jakém stavu jsou*) <br>
 :+1: = hotovo <br>
 *...a bez emoji tam prostě ještě nic nemá* <br>
 
