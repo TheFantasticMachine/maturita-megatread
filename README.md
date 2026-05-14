@@ -64,14 +64,14 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 ## Programování
 
 #### Seznam otázek  
-1. V**ývojové diagramy, aritmetické, relační a logické operátory[výpisky](Pm/1.md)**
-2. D**atové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné[výpisky](Pm/2.md)**
-3. P**odmíněné větvení programu, pole, cykly[výpisky](Pm/3.md)**
-4. F**unkce v programovacích jazycích[výpisky](Pm/4.md)**
-5. C**++ - charakteristika, syntaxe, použití, funkce main()[výpisky](Pm/5.md)**
-6. P**rocedurální a objektově orientované programování (OOP)[výpisky](Pm/6.md)**
-7. O**OP - třídy, instance tříd, dědičnost a polymorfismus [výpisky](Pm/7.md)**
-8. O**OP - objekty, jejich tvorba, vlastnosti, metody [výpisky](Pm/8.md)**
+1. **Vývojové diagramy, aritmetické, relační a logické operátory[výpisky](Pm/1.md)**
+2. **Datové typy, statický a dynamický typový systém, proměnné, lokální a globální proměnné[výpisky](Pm/2.md)**
+3. **Podmíněné větvení programu, pole, cykly[výpisky](Pm/3.md)**
+4. **Funkce v programovacích jazycích[výpisky](Pm/4.md)**
+5. **C++ - charakteristika, syntaxe, použití, funkce main()[výpisky](Pm/5.md)**
+6. **Procedurální a objektově orientované programování (OOP)[výpisky](Pm/6.md)**
+7. **OOP - třídy, instance tříd, dědičnost a polymorfismus [výpisky](Pm/7.md)**
+8. **OOP - objekty, jejich tvorba, vlastnosti, metody [výpisky](Pm/8.md)**
 9. J**ava - charakteristika, syntaxe, použití, vlastnosti, VM [výpisky](Pm/9.md)**
 10. **~~HTML - charakteristika, struktura dokumentu, syntaxe, validita, druhy a kategorie značek~~ [výpisky](Pm/10.md)**
 11. **CSS - charakteristika, syntaxe, jednotky, identifikátory [výpisky](Pm/11.md)**
