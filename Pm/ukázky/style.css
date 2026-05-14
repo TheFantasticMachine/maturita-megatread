@@ -1,0 +1,63 @@
+:root {
+    --background-color: #000;
+    --foreground-color: #fff;
+
+    --notes-background: #3B3B3B;
+}
+
+/* --- */
+@media (max-width: 600px) {
+    .notes  {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+/* --- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    background-color: var(--background-color);
+    color: var(--foreground-color);
+}
+
+/* --- */
+
+.notes {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.note {
+    border-radius: 10%;
+    background-color: var(--notes-background);
+    padding: 10px;
+    aspect-ratio: 1 / 1;
+    height: fit-content;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-shrink: 2;
+
+}
+
+.notes-heading {
+    font-weight: 900;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.notes-content {
+    font-style: italic;
+    width: 85%;
+}
+
+
