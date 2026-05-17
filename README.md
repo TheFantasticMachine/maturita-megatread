@@ -11,6 +11,11 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 
 ***Drahý čtenáři ber v potaz že mi po cca 7 hodinách učení v kuse asi 5 dní v kuse začalo jebat a možná to je lehce vidět na tom co dávám do poznámek nebo příkladů***
 
+## TODO list
+
+Pokud máte nějaké téma které se vám nechce zpracovávat/hledat nebo chcete mít začátek na studium
+přidejte je [sem](TODO.md) a já je zpracuju jak rychle to jen zvládnu. 
+
 ---
 ## Čeština
 
@@ -125,7 +130,7 @@ Pokus centralizovat co nejvíce výpisků a materiálů k maturitě
 11. **Windows server (role serveru, ADDS)**
 12. **Nastavení sítě a sdílení souborů, tiskáren a síťových připojení pod Windows**
 13. **Uživatelé a skupiny, práva k souborům a adresářům, srovnání Windows a Linux**
-14. **Síťové služby (server + klient) ftp, http, https, ssh, smb, smtp, pop3, imap a jejich použití**
+14. **Síťové služby (server + klient) ftp, http, https, ssh, smb, smtp, pop3, imap a jejich použití** ([výpisky](OS/14.md))
 15. **Vzdálená správa počítače a serveru, komunikace mezi Windows a Unix**
 16. **Virtualizace, zálohování systému a dat, obrazy souborových systémů**
 17. **Konfigurace sestavy podle účelu použití**
