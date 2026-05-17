@@ -130,16 +130,16 @@ přidejte je [sem](TODO.md) a já je zpracuju jak rychle to jen zvládnu.
 11. **Windows server (role serveru, ADDS)**
 12. **Nastavení sítě a sdílení souborů, tiskáren a síťových připojení pod Windows**
 13. **Uživatelé a skupiny, práva k souborům a adresářům, srovnání Windows a Linux**
-14. **Síťové služby (server + klient) ftp, http, https, ssh, smb, smtp, pop3, imap a jejich použití** ([výpisky](OS/14.md))
+14. :wrench: **Síťové služby (server + klient) ftp, http, https, ssh, smb, smtp, pop3, imap a jejich použití** ([výpisky](OS/14.md))
 15. **Vzdálená správa počítače a serveru, komunikace mezi Windows a Unix**
 16. **Virtualizace, zálohování systému a dat, obrazy souborových systémů**
 17. **Konfigurace sestavy podle účelu použití**
-18. **Historie počítačů, schéma počítače (von Neumannova a Harwardská koncepce), číselné**
+18. :wrench: **Historie počítačů, schéma počítače (von Neumannova a Harwardská koncepce), číselné**
     **soustavy, bit, byte, ASCII, Unicode**
 19. **Paměti v PC, polovodičové paměti**
 20. **HDD, princip, parametry, mechanika, připojení, SSD, disková pole**
-21. **Digitální kamery a fotoaparáty, provedení, snímače, objektivy, funkční blokové schéma,**
-    **formáty dat**
+21. :wrench: **Digitální kamery a fotoaparáty, provedení, snímače, objektivy, funkční blokové schéma,**
+    **formáty dat** ([vápisky](OS/21.md))
 22. **Tiskárny, tisk a hustota rastru, barevný model CMYK**
 23. **Skener, velikost předlohy a obrázku, rozlišení, barevný model RGB, barevná hloubka,**
     **obslužné programy skenerů, postup při skenování, OCR**
