@@ -1,3 +1,4 @@
+If there is ✅ then i tested it
 1. Funkce a struktura operačních systémů, základní pojmy, blokové schéma Windows a Unix,
    verze Windows, distribuce Linuxu
 2. Diskové oddíly, fyzická a logická struktura disku, nástroje pro editaci diskových oddílů,
