@@ -1,25 +1,36 @@
- 1. Otázka [[OS/1]]
- 2. Otázka [[OS/2]]
- 3. Otázka [[OS/3]]
- 4. Otázka [[OS/4]]
- 5. Otázka [[OS/5]]
- 6. Otázka [[OS/6]]
- 7. Otázka [[OS/7]]
- 8. Otázka [[OS/8]]
- 9. Otázka [[OS/9]]
- 10. Otázka [[OS/10]]
- 11. Otázka [[OS/11]]
- 12. Otázka [[OS/12]]
- 13. Otázka [[OS/13]]
- 14. Otázka [[OS/14]]
- 15. Otázka [[OS/15]]
- 16. Otázka [[OS/16]]
- 17. Otázka [[OS/17]]
- 18. Otázka [[OS/18]]
- 19. Otázka [[OS/19]]
- 20. Otázka [[OS/20]]
- 21. Otázka [[OS/21]]
- 22. Otázka [[OS/22]]
- 23. Otázka [[OS/23]]
- 24. Otázka [[OS/24]]
- 25. Otázka [[OS/25]]
+1. Funkce a struktura operačních systémů, základní pojmy, blokové schéma Windows a Unix,
+   verze Windows, distribuce Linuxu
+2. Diskové oddíly, fyzická a logická struktura disku, nástroje pro editaci diskových oddílů,
+   Souborové systémy, jejich vlastnosti a funkce
+3. Pojem počítačová síť, topologie sítí, rozdělení sítí (LAN, MAN, WAN, Internet), výpočetní
+   modely sítí
+4. Základy síťové komunikace, ISO/OSI a TCP/IP model, síťové protokoly, síťové standardy
+   (ethernet, fastethernet, gigabitethernet), bezdrátové technologie (standardy 802.11, WIFI
+   přístupové body, technologie bluetooth)
+5. Adresace v síti (hardwarová adresa, IPV4, třídy adres, maska sítě, vytváření podsítí, veřejné
+   a soukromé IP adresy, překlad adres
+6. BIOS a jeho nastavení, start počítače, zavádění operačního systému, spouštění služeb
+   a programů na pozadí
+7. Adresářová struktura Windows a Unix, srovnání
+8. Instalace a Windows, instalace ovladačů HW, instalace Linuxu a SW pod Linuxem,
+   balíčkovací systémy
+9. Správa systémů Windows (registry, konzola pro správu, moduly Snap-in, plánování úloh)
+10. Příkazový řádek Windows, příkazy linuxového shellu, dávkové soubory ve Windows Linux
+11. Windows server (role serveru, ADDS)
+12. Nastavení sítě a sdílení souborů, tiskáren a síťových připojení pod Windows
+13. Uživatelé a skupiny, práva k souborům a adresářům, srovnání Windows a Linux
+14. Síťové služby (server + klient) ftp, http, https, ssh, smb, smtp, pop3, imap a jejich použití
+15. Vzdálená správa počítače a serveru, komunikace mezi Windows a Unix
+16. Virtualizace, zálohování systému a dat, obrazy souborových systémů
+17. Konfigurace sestavy podle účelu použití
+18. Historie počítačů, schéma počítače (von Neumannova a Harwardská koncepce), číselné
+    soustavy, bit, byte, ASCII, Unicode
+19. Paměti v PC, polovodičové paměti
+20. HDD, princip, parametry, mechanika, připojení, SSD, disková pole
+21. Digitální kamery a fotoaparáty, provedení, snímače, objektivy, funkční blokové schéma,
+    formáty dat
+22. Tiskárny, tisk a hustota rastru, barevný model CMYK
+23. Skener, velikost předlohy a obrázku, rozlišení, barevný model RGB, barevná hloubka,
+    obslužné programy skenerů, postup při skenování, OCR
+24. Monitory, dataprojektory
+25. Hardwarové aktivní a pasivní prvky sítí a jejich použití
